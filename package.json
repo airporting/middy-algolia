@@ -30,7 +30,7 @@
     ]
   },
   "dependencies": {
-    "algoliasearch": "4.24.0"
+    "algoliasearch": "5.4.0"
   },
   "devDependencies": {
     "@babel/core": "7.25.2",
